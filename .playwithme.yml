@@ -1,0 +1,2 @@
+steps:
+    - create a mysql database @Property('app.mysql.database') for user @Property('app.mysql.user') identified by password @Property('app.mysql.password')
